@@ -4,5 +4,4 @@ I have been listening to the YouTube channel <a href="https://www.youtube.com/@T
 </div>
 <br>
 
-<img src="./Screenshot 2026-09-14 014735.png" width="400px">
-<img src="./Screenshot 2026-09-14 015059.png" width="400px">
+<img src="./Screenshot 2026-09-14 014735.png" width="370px"> <img src="./Screenshot 2026-09-14 015059.png" width="370px">
