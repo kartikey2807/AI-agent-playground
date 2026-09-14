@@ -4,5 +4,11 @@ I have been listening to the YouTube channel <a href="https://www.youtube.com/@T
 </div>
 <br>
 
-<img src="./Screenshot 2026-09-14 014735.png" width="405px"> <img src="./Screenshot 2026-09-14 015059.png" width="410px">
-<img src="./Screenshot 2026-09-14 015008.png" width="405px"> <img src="./Screenshot 2026-09-14 015118.png" width="410px">
+<img src="Screenshot 2026-09-14 014735.png">
+<img src="Screenshot 2026-09-14 015059.png">
+<img src="Screenshot 2026-09-14 015008.png">
+<img src="Screenshot 2026-09-14 015118.png">
+
+*n8n workflow and email responses. It can be improved by adding more tools like Calendar, Wikipedia, Meet, etc.*
+
+---
